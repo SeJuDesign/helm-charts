@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.10.0b3
 
 ENV HELM_VERSION=3.6.2
 
